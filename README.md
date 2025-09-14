@@ -1,4 +1,4 @@
-# <Project title goes here>  <!-- e.g., Age Bias Metrics Demo -->
+# <Job Advert Bias Checker App> 
 
 Short summary in one line.  
 (e.g., Exploratory notebooks and helper scripts for measuring age-related bias in models/datasets.)
