@@ -1,1 +1,12 @@
+# Python caches & compiled
+__pycache__/
+*.py[cod]
+
+# Virtual environments
+.venv/
+.conda/
+.env
+
+# Jupyter
+.ipynb_checkpoints/
 
