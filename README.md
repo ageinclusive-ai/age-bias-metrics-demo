@@ -1,14 +1,9 @@
-# <Job Advert Bias Checker App> 
+# Job Bias Advert Checker
 
-Short summary in one line.  
-(e.g., Exploratory notebooks and helper scripts for measuring age-related bias in models/datasets.)
+A notebooks-first project to **inspect job adverts for potential age-related bias** (e.g., “digital native”, “energetic”, “recent graduate”) and produce simple reports.
 
-## What’s here
-- `notebooks/` — Jupyter notebooks (start here)
-- `data/` — small, shareable CSVs (e.g., `lexicon.csv`)
-- `src/age_inclusive_ai/` — helper Python scripts (`app.py`, `batch_runner.py`, `html_report.py`)
-- `scripts/windows/` — optional Windows launchers (`run.bat`, `run_batch_csv.bat`)
-- `requirements.txt` — Python packages used by the notebooks
-
-## How to use (simple)
-1. Open your Python/Ju
+## What’s in this repo
+- `notebooks/` — Jupyter notebooks for exploration and reporting
+- `data/` — small, shareable inputs (e.g., `lexicon.csv` with flagged terms)
+- `src/age_inclusive_ai/` — helper Python scripts:
+  - `app.py` — main h
