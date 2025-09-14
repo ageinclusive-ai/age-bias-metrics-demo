@@ -1,0 +1,44 @@
+phrase,why,alternative,severity
+young,"Explicitly prefers younger candidates, age-discriminatory",motivated,3
+younger,Implies preference for less age,junior,3
+youthful,Assumes personality linked to age,dynamic,2
+aged 20-30,"Explicit age restriction, unlawful under Equality Act 2010",no age requirement,3
+under 30,Excludes older applicants,all qualified candidates,3
+recent graduate,Excludes experienced/older candidates,graduate or equivalent experience,3
+new grad,Restricts to young candidates,entry-level applicants,3
+early career only,Limits based on career stage,open to all career stages,3
+max 5 years,Caps experience to exclude senior/older candidates,no maximum experience,3
+no more than 3 years,Excludes experienced candidates,all relevant experience,3
+overqualified,Age-coded to exclude older applicants,experienced,2
+too senior,Age-coded rejection,experienced,2
+career ceiling,"Implies career capped, discouraging older applicants",career growth opportunities,2
+digital native,Implies older people excluded,tech-savvy,3
+energetic,"Stereotype of youth, may discourage older applicants",proactive,2
+high energy,"Stereotype of youth, may discourage older applicants",motivated,2
+fast-paced team,"Dogwhistle for younger, exclude those needing flexibility",dynamic team,2
+work hard play hard,"Youth-coded culture, excludes carers/older people",supportive culture,2
+young team,"Highlights age of team, discriminatory",diverse team,3
+fun grad team,Suggests only recent grads fit,inclusive team,2
+bro culture,"Exclusionary, age & gender coded",collaborative culture,3
+ninja,Exclusionary slang often youth-coded,specialist,2
+rockstar,Exclusionary slang often youth-coded,expert,2
+hungry,"Stereotype of youth, excludes older workers",motivated,2
+high potential only,Suggests exclusion of experienced candidates,growth opportunities for all,2
+mouldable,Implies only young/less experienced people welcome,adaptable,2
+fresh perspectives only,Excludes experienced candidates,diverse perspectives,2
+tech-savvy only,Stereotype that older workers are not tech capable,comfortable with technology,3
+move fast at all costs,Youth-coded start-up language,deliver results effectively,2
+not for lifers,Suggests older workers discouraged,long-term commitment valued,2
+short-term before promotion,Excludes older candidates who may value stability,growth opportunities,2
+temporary stepping stone,Implies exclusion of candidates seeking stability,career development opportunity,2
+pizza and beer,Youth-coded benefit,team socials,1
+beer fridays,Youth-coded benefit,team gatherings,1
+freshers week,"Student-coded, age exclusionary",welcome events,2
+student-budget pay,Low pay targeted at younger candidates,competitive pay,2
+backpacking perks,Youth-coded lifestyle assumption,travel opportunities,1
+graduation year,Collecting graduation year is age-proxy,years of experience,3
+date of birth required,Direct age collection is discriminatory,not required,3
+provide photo,Photo requirement may reveal age; discriminatory risk,photo not required,2
+education must be recent,Age-coded requirement,relevant qualifications,3
+work with young people,"May be job-related, but can be ambiguous",work with service users,1
+youth services,"Legitimate if describing clients, not staff",—,1
